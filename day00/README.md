@@ -108,4 +108,4 @@ $ java Program
 
 Example of program operation:
 
-![1](./images/program.png)
+![1](./images/prog.png)
